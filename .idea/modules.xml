@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SPB.iml" filepath="$PROJECT_DIR$/SPB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spb-metro.iml" filepath="$PROJECT_DIR$/spb-metro.iml" />
     </modules>
   </component>
 </project>
